@@ -9,3 +9,4 @@
 - 💬 Ask me about my previous life as a commercial photographer
 - 📫 How to reach me: chris_tack@mac.com
 - ⚡ Fun fact: I built and lived in a tiny house for 4 years...[The Tiny Tack House](http://www.thetinytackhouse.com)
+- 📄 [Check out my resume](https://tackc.github.io/resume-template/)
