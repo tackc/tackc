@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Chris!
+### Hi there 👋. I'm Chris & I'm looking for work as a developer!
 
 - 🔭 &nbsp; I’m currently working with a really cool project called [The Banana App](https://www.bananaapp.org/bc/). Check out the live apps in the App Store: 
   - [Banana App - Client](https://apps.apple.com/us/app/banana-app-client/id1528875793)
