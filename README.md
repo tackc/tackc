@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Chris!
+### Hi there 👋. I'm Chris & I'm looking for work as a developer!
 
 - 👨🏻‍💻 &nbsp; I work as a full-stack web developer
 - 🔭 &nbsp; I’ve done some work on a really cool project called [The Banana App](https://www.bananaapp.org/bc/). Check out the live apps in the App Store: 
